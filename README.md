@@ -1,2 +1,4 @@
-# thebeautyofthebaud.github.io
-TheBeautyOfTheBaud.com
+# TheBeautyOfTheBaud.com
+
+Repository for TheBeautyOfTheBaud.com Website
+
